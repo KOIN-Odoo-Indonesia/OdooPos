@@ -11,4 +11,11 @@
     <PackageReference Include="CouchDB.NET.DependencyInjection" Version="2.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DI\" />
+    <Folder Include="Assets\" />
+    <Folder Include="Repositories\Printer\" />
+    <Folder Include="Views\" />
+  </ItemGroup>
+
 </Project>
